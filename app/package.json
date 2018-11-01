@@ -11,7 +11,7 @@
     "eject": "react-scripts-kotlin eject",
     "electron": "URL_LAUNCHER_NODE=1 electron .",
     "gen-idea-libs": "react-scripts-kotlin gen-idea-libs",
-    "get-types": "react-scripts-kotlin get-types --dest=src/types",
+    "get-types": "react-scripts-kotlin get-types --dest=app/src/types",
     "postinstall": "npm run gen-idea-libs"
   },
   "repository": {
